@@ -1,3 +1,3 @@
-@id=79faae40-ab7c-4688-88fc-b6774d293e5e
+@id=8b7b4a67-6456-402b-a5c1-356d97473b09
 
 DELETE http://127.0.0.1:5000/breakfasts/{{id}}
