@@ -1,3 +1,3 @@
-@id=975244e7-c9d5-440a-b5b0-2e10d2f61d10
+@id=679c3c90-3b72-430a-b440-cec925a6859c
 
 GET http://127.0.0.1:5000/breakfasts/{{id}}
